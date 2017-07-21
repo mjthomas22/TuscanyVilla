@@ -1,10 +1,52 @@
-﻿nav.navbar {
+﻿
+/*navbar styling*/
+nav.navbar {
     margin: 0;
     border: 0;
     padding: 0;
     background-color: #474e5d;
     color: #f3ffff;
+    border-radius: 0px;
+    font-size:large
 }
+
 nav a {
     color: #f3ffff;
+}
+
+/*header styling*/
+.jumbotron {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-image: url('Images/tuscany-villas-sant-anna.jpg');
+    background-size: cover;
+    
+}
+div.jumbotron.col-md-9 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    padding-bottom: 390px;
+    border-radius: 0px;
+    text-align: center;
+    color: #f3ffff;
+}
+div.col-md-3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-image: url('Images/Versilia.jpg');
+    background-size: cover;
+    padding-bottom: 550px;
+}
+
+h1.jumbotext {
+    margin-top:0;
+    padding:0;
+    padding-top:35px;
+}
+h2.jumbotext{
+    margin:0;
+    padding:0;
 }
