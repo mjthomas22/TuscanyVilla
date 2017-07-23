@@ -219,7 +219,10 @@ div.location2 {
 
 .message{
     text-align:center;
+    font-size:20px;
+    font-style:italic;
 }
-.name{
-    text-align:center;
+.name {
+    text-align: center;
+    font-size: 15px;
 }
