@@ -33,7 +33,7 @@ div.jumbotron.col-md-9 {
     color: #f3ffff;
 }
 
-div.col-md-3 {
+#mappicture {
     margin: 0;
     padding: 0;
     border: 0;
@@ -67,7 +67,6 @@ h2.jumbotext {
 #h2locations {
     margin-bottom: 0px;
     margin-top: 40px;
-
 }
 
 #h3locations {
@@ -80,29 +79,132 @@ h2.jumbotext {
     padding-top: 60px;
     padding-left: 60px;
 }
+
 div.caption.col-md-8 {
     padding-left: 60px;
     padding-top: 120px;
-    text-align:left;
-    padding-right:120px;
+    text-align: left;
+    padding-right: 120px;
 }
-a.btn{
+
+a.btn {
     background-color: #474e5d;
     color: #f3ffff;
-    border:solid
+    border: solid
 }
-div.col-md-4{
-    padding:0;
+
+#mountainVilla {
+    padding: 0;
 }
+
 div.location2 {
     background-color: #474e5d;
     color: #f3ffff;
 }
-.locationRows{
-    padding-bottom:50px;
+
+.locationRows {
+    padding-bottom: 50px;
 }
+
 #secondbutton {
     background-color: #f3ffff;
     color: #474e5d;
     border: solid
+}
+
+/*Ammenities Style Starts here*/
+
+#ammenitiesbox1 {
+    margin: 0;
+    padding: 0;
+    width: 348px;
+}
+
+.thumbnail {
+    border: 0;
+}
+
+#ammenitiesbox2 {
+    text-align: center;
+    width: 348px;
+}
+
+#ammenitiesbox3 {
+    margin: 0;
+    padding: 0;
+    width: 348px;
+}
+
+#ammenitiesSection1 {
+    margin-top: 60px;
+}
+
+.ammenititesImg {
+    margin: 0;
+    padding: 0;
+}
+
+#receptionsBtn {
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    top: 50%;
+    left: 50%;
+    margin: -30px 0px 0px -55px;
+    opacity: .9;
+    border-color: transparent;
+}
+
+#PoolBtn {
+    position: absolute;
+    width: 120px;
+    height: 60px;
+    top: 50%;
+    left: 50%;
+    margin: -30px 0px 0px -55px;
+    opacity: .9;
+    border-color: transparent;
+}
+
+#ammenitiesbox4 {
+    text-align: center;
+    width: 348px;
+}
+#ammenitiesbox5 {
+    text-align: center;
+    width: 348px;
+}
+#ammenitiesbox6 {
+    text-align: center;
+    width: 348px;
+}
+#homeBtn {
+    position: absolute;
+    width: 120px;
+    height: 60px;
+    top: 50%;
+    left: 50%;
+    margin: -30px 0px 0px -55px;
+    opacity: .9;
+    border-color: transparent;
+}
+#viewsBtn {
+    position: absolute;
+    width: 120px;
+    height: 60px;
+    top: 50%;
+    left: 50%;
+    margin: -30px 0px 0px -55px;
+    opacity: .9;
+    border-color: transparent;
+}
+#dinningBtn {
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    top: 50%;
+    left: 50%;
+    margin: -30px 0px 0px -55px;
+    opacity: .9;
+    border-color: transparent;
 }
