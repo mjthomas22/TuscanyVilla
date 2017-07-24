@@ -259,3 +259,12 @@ div.location2 {
     border: solid;
     text-align: right;
 }
+
+.carousel-indicators li {
+    display: inline-block;
+    background-color: #474e5d;
+
+}
+.carousel-indicators .active {
+    background-color: #474e5d;
+}
